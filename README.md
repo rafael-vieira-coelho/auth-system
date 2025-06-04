@@ -1,6 +1,3 @@
-# auth-system
-Gabarito do Trabalho 1 do segundo trimestre da disciplina Desenvolvimento WEB 2
-
 # Sistema de Autenticação de Usuários
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)

@@ -1,0 +1,15 @@
+/auth-system/
+│
+├── app.py                # Aplicação principal Flask
+├── config.py             # Configurações do projeto
+├── requirements.txt      # Dependências do Python
+├── static/               # Arquivos estáticos (CSS, JS)
+│   └── styles.css        # Estilos customizados
+├── templates/            # Templates HTML
+│   ├── base.html         # Template base
+│   ├── index.html        # Página inicial
+│   ├── login.html        # Página de login
+│   ├── register.html     # Página de registro
+│   ├── profile.html      # Página do perfil
+│   └── dashboard.html    # Área protegida
+└── README.md             # Documentação
